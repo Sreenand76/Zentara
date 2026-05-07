@@ -6,13 +6,13 @@
 
 ## 🚀 Live Demo
 
-[Try GearGrid Live!](https://geargrid-gaming-laptops.vercel.app/) 
+[Try Zentara Live!](https://geargrid-gaming-laptops.vercel.app/) 
 
 ---
 
 ## 📝 Executive Summary
 
-GearGrid empowers users to explore, customize, and purchase laptops with ease.  
+Zentara empowers users to explore, customize, and purchase laptops with ease.  
 Admins can manage products, orders, and inventory.  
 Key features include dynamic pricing, advanced filtering, and a seamless, responsive UX.
 
