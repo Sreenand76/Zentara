@@ -1,6 +1,6 @@
 # Zentara – Ecommerce Laptop Store
 
-**GearGrid** is a full-stack, modern ecommerce platform for buying laptops. Users can customize specifications, see real-time pricing updates, and easily search/filter products. Built with React, Spring Boot, and MySQL, GearGrid demonstrates secure, scalable application architecture.
+**Zentara** is a full-stack, modern ecommerce platform for buying laptops. Users can customize specifications, see real-time pricing updates, and easily search/filter products. Built with React, Spring Boot, and MySQL, GearGrid demonstrates secure, scalable application architecture.
 
 ---
 
@@ -118,20 +118,19 @@ Key features include dynamic pricing, advanced filtering, and a seamless, respon
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/GearGrid.git
-cd GearGrid
+git clone https://github.com/Sreenand76/Zentara.git
 ```
 
 ### 2. Setup the Frontend
 ```bash
-cd GearGrid-frontend
+cd ecommerce-frontend
 npm install
 npm run dev
 ```
 
 ### 3. Setup the Backend
 ```bash
-cd GearGrid-Backend
+cd ecommmerce-backend
 mvn clean install
 mvn spring-boot:run
 ```
