@@ -86,7 +86,7 @@ const NavBar = () => {
           to="/"
           className="text-xl md:text-2xl lg:text-3xl font-extrabold bg-gradient-to-r from-blue-700 via-purple-900 to-pink-900 text-transparent bg-clip-text  lg:py-2"
         >
-          GearGrid
+          Zentara
         </Link>
 
         {/* Navigation Links */}
