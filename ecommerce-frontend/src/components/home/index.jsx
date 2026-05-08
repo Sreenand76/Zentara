@@ -239,7 +239,7 @@ const LandingPage = () => {
       {/* Footer */}
       <footer className="bg-gray-950 text-gray-400 py-8">
         <div className="container mx-auto text-center">
-          <p>© 2024 PrismTech. All Rights Reserved.</p>
+          <p>© 2026 Zentara. All Rights Reserved.</p>
           <div className="flex justify-center space-x-4 mt-4">
             <a href="mailto:sreenands93@gmail.com" className="hover:text-white transition">
               Gmail
