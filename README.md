@@ -1,6 +1,6 @@
 # Zentara – Ecommerce Laptop Store
 
-**Zentara** is a full-stack, modern ecommerce platform for buying laptops. Users can customize specifications, see real-time pricing updates, and easily search/filter products. Built with React, Spring Boot, and MySQL, GearGrid demonstrates secure, scalable application architecture.
+**Zentara** is a full-stack, modern ecommerce platform for buying laptops. Users can customize specifications, see real-time pricing updates, and easily search/filter products. Built with React, Spring Boot, and MySQL, Zentara demonstrates secure, scalable application architecture.
 
 ---
 
